@@ -1,0 +1,23 @@
+*{
+    background-color: gray;
+}
+.main{
+    width: 400px;
+    height: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+.counter{
+    width: 500px;
+    text-align: center;
+}
+.dec{
+color: rgb(2, 2, 2);
+background-color: rgb(196, 194, 194);
+font-size: 20px;
+border: 2px solid black;
+border-radius: 5px;
+margin-bottom: 2px;
+}
